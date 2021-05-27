@@ -10,4 +10,6 @@ I am a computer engineer 💻 who loves programming and learning about new techn
 - 📫 You can reach me here: miquel.zamora@students.salle.url.edu
 - 🌎 Or visit my personsal website: https://miquelz.github.io/
 
-<img src="https://content.techgig.com/thumb/msid-79844104,width-860,resizemode-4/5-Best-programming-languages-to-learn-in-2021.jpg?140622" alt="programming" align="center" width="35%"></img>
+<div align="center">
+<img src="https://content.techgig.com/thumb/msid-79844104,width-860,resizemode-4/5-Best-programming-languages-to-learn-in-2021.jpg?140622" alt="programming" width="35%"></img>
+</div>
