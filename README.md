@@ -7,7 +7,7 @@
 
 I am a computer engineer 💻 who loves programming and learning about new technologies 🚀. My curiosity and passion about computing and programming began when I was very young and it's still increasing!💥
 
-- 📫 You can reach me here: miquelzamora99@gmail.com or miquel.zamora@students.salle.url.edu
+- 📫 You can reach me here: miquelzamora99@gmail.com or miquel.zamora@salle.url.edu
 - 📘 Take a look at my linkedin: https://www.linkedin.com/in/miquel-zamora-hidalgo/
 - 🌎 Or visit my personsal website: https://miquelz.github.io/
 
